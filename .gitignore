@@ -1,0 +1,19 @@
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.autosave
+*.mex*
+*.slxc
+sccprj/
+
+# Parallel computing local cache
+local_cluster_jobs/
+
+# Third-party toolboxes (users should download or link locally)
+eeglab*/
+catch22/
+fooof_mat*/
+
+# OS generated files
+.DS_Store
+Thumbs.db
