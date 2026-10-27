@@ -1,8 +1,6 @@
 # TS-DTB: Two-Stage Multimodal Digital Twin Brain Modeling Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23660150.svg)](https://doi.org/10.5281/zenodo.23660150)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2022b%2B-orange.svg)](https://www.mathworks.com/)
 
 ## Overview
 
