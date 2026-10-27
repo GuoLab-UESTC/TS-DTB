@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "TS-DTB: Two-Stage Multimodal Digital Twin Brain Modeling Framework"
+version: 1.0.0
+date-released: 2026-10-26
+license: MIT
+repository-code: "https://github.com/xiongyue992/TS-DTB"
+authors:
+  - family-names: "Xiong"
+    given-names: "Yue"
+    orcid: "https://orcid.org/0009-0007-5187-1489"
